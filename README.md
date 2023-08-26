@@ -1,2 +1,2 @@
 # Hackfrenzy
-developing a healthcare application that aims to benefit doctors and patients simuntaneously. This is innovative platform which designed to empower healthcare professionals by enhancing 
+developing a healthcare application that aims to benefit doctors and patients simultaneously. This is an innovative platform designed to empower healthcare professionals by enhancing their professional growth and positioning them favorably amongst their peers, potentially within the top 10 rankings compared to their colleagues, for patients facing challenging medical situations, our website offers precise and tailored medical guidance, ensuring that they receive the most accurate and suitable recommendation based on their unique circumstances. 
